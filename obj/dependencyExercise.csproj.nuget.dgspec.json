@@ -38,7 +38,7 @@
           "dependencies": {
             "Humanizer": {
               "target": "Package",
-              "version": "[2.7.9, )"
+              "version": "[*, )"
             }
           },
           "imports": [
